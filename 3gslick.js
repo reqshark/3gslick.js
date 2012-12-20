@@ -1,4 +1,4 @@
-/*!	3G Streamer, a.k.a. 3gslick.js - v0.0.1 - 2012-12-20
+/*!	3G Streamer, a.k.a. 3gslick.js - v0.0.1 - created 2012-12-20
 *	http://cloudkickr.com
 *	See documentation, jQuery is a dependency. 
 *	Info on iOS mobile console go to 'http://developer.apple.com/library/safari/#documentation/AppleApplications/Reference/SafariWebContent/DebuggingSafarioniPhoneContent/DebuggingSafarioniPhoneContent.html#//apple_ref/doc/uid/TP40006515-SW11'
