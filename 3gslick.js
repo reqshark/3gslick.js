@@ -44,6 +44,7 @@ function detectmob(){
 detectmob();
 
 // Check mobile device consoles to confirm the correct video attr. boom! done!
-// This is helpful when engineering pages rich with other events or late/ongoing DOM activity near the video element.
+// These last couple lines are a big help,
+// esp. when engineering pages rich with other events or late/ongoing DOM activity near the video element.
 var capv = $('video').attr('src');
 console.log('currrent attribute path value is: ' + capv);
