@@ -29,13 +29,17 @@ Use the mobile device console to understand whether your program functions as yo
 
 http://stackoverflow.com/questions/8598065/how-do-you-detect-3g-vs-wifi-connection-on-mobile-safari
 
-With polite aknowledgement and respect for the gentleman's response to inquiry above on StackOverflow, I doubt his answer. There's gotta be a way to do it... Node or an npm package might help figure it out on the server side. But before going there I'm sure this is available upon TCP handshake. The Network Access layer controls the communication between the hardware in the network..  That's pretty deep stuff and I want to avoid getting phone gap involved to simply check for a 3G network if possible. That's what they call a long run for a short slide. Forgive my ramblings if stumble across this repo and happen to know or think of something please submit a pull request or issue. Would be greatly appreciated. The community should be able to accomplish this with a little front-end JavaScript. Why not? 
+With polite aknowledgement and respect for the gentleman's response to inquiry above on StackOverflow, I doubt his answer. There's gotta be a way to do it... Node or an npm package might help figure it out on the server side. But before going there I'm sure this is available upon TCP handshake. The Network Access layer controls the communication between the hardware in the network..  That's pretty deep stuff and I want to avoid getting phone gap involved to simply check for a 3G network if possible. 
 
-I image if this is not possible the ECMAScript committee needs to be notified and made aware of the issue. I hope they haven't deemed the issue outside their scope. As I understand the Network Layer and JavaScript Interpreter are in the same proximity to one another in the browser. 
+That is what they call a long run for a short slide. 
+
+Forgive my ramblings. If you stumble on this repo and happen to know or think of something please submit a pull request or issue. The JS community should be able to accomplish this with a little front-end JavaScript. Why not? 
+
+If it is not possible in JavaScript the esteemed members of our ECMAScript committee need to be notified. The issue is worth raising unless they already deemed it outside their scope. As I understand the Network Layer and JavaScript Interpreter are in the same proximity to one another in the browser. 
 
 Also I haven't found a single helpful thing here: http://www.ecma-international.org/ecma-262/5.1/#sec-4.3.6
 
 btw, firefox is apparently killing it with the ECMAScript 6 coverage: http://kangax.github.com/es5-compat-table/es6/
 
 ## ShoutOut
-This is awesome and it deserves a random shoutout: [The Official Components Index](https://github.com/component/component/wiki/Components#wiki-media).
+This is awesome and deserves a random shoutout: [The Official Components Index](https://github.com/component/component/wiki/Components).
