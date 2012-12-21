@@ -25,9 +25,7 @@ Use the mobile device console to understand whether your program functions as yo
 [Review the code and comments](http://github.com/bcardan/3gslick.js/blob/master/3gslick.js)
 
 
-If this utility doesn't suit your needs check out all the [cool components](https://github.com/component/component/wiki/Components#wiki-media).
-
-### Roadmap: Stop checking mobile devices with the assumption they don't use wifi. Instead check for the network type associated with the request in order to respond precisely to the user's internet connection speed and browsing experience or whatever, rather than a blind device check. 
+### Roadmap: Stop checking mobile devices with the assumption they don't use wifi. Instead check for the network type associated with the request in order to respond precisely to the user's internet connection speed and browsing experience, rather than a blind device check. 
 
 http://stackoverflow.com/questions/8598065/how-do-you-detect-3g-vs-wifi-connection-on-mobile-safari
 
@@ -38,3 +36,6 @@ I image if this is not possible the ECMAScript committee needs to be notified an
 Also I haven't found a single helpful thing here: http://www.ecma-international.org/ecma-262/5.1/#sec-4.3.6
 
 btw, firefox is apparently killing it with the ECMAScript 6 coverage: http://kangax.github.com/es5-compat-table/es6/
+
+## ShoutOut
+This is awesome and it deserves a random shoutout: [The Official Components Index](https://github.com/component/component/wiki/Components#wiki-media).
