@@ -1,7 +1,7 @@
-![3G SlickJS](http://s3.amazonaws.com/mynodebucket/assets/images/slicklogo.png)
 # 3G Slick JS
 
 Slick 3G Network Videos for mobile devices with super slow internet.
+![3G SlickJS](http://s3.amazonaws.com/mynodebucket/assets/images/slicklogo.png)
 
 ## Description
 
