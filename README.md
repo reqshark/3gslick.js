@@ -18,7 +18,7 @@ Manage HTML5 Video quality fed across a variety of devices. A few lines of JavaS
 
 Use [Handbrake](http://handbrake.fr/downloads.php).
 
-Use the mobile device console to understand whether your program functions as you intend. I imagine adobe has something. Also I would assume phone gap has some type of console, though I have not yet checked the docs. I use the iOS Simulator App outputing console messages in Safari. The only drawbacks are that I have to install Xcode and I'm reading console messages in something other than Chrome which is unatural to me. Safari console is a little out of control and I can't figure out how to stop the thing from running its performance checks during the simulator refreshes for the life of me. For more on that subject consult the horse's mouth over here: [Apple Dev Docs, Debugging Web Content on iOS](http://goo.gl/8A7BN)
+Use the mobile device console to understand whether your program functions as you intend. I imagine adobe has something. Also I would assume phone gap has some type of console, though I have not yet checked the docs. I use the iOS Simulator App outputing console messages in Safari. Refreshing Safari console invokes the performance analytics waterfall regardless on each http transaction despite my disinterest in anythign but the console. That shit is out of control but it's what I end up using. For more on that subject consult the horse's mouth over here: [Apple Dev Docs, Debugging Web Content on iOS](http://goo.gl/8A7BN)
 
 ## Usage
 
