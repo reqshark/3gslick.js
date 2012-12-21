@@ -49,7 +49,7 @@ The work being done by TJ Halowaychuk and everyone on components right now is in
 
 ## License 
 
-The Purpose of the following software license is present the true context of this software and resolve any doubt as to its open-source, freely contributed, and freely obtainable nature without condition or limitation whatsoever.
+The purpose of the following software license is to present the true context of this repository and, in particular, to resolve any doubt as to its open-source, freely contributed, and freely obtainable nature without condition or limitation whatsoever.
 
 (The MIT License Modified Cloudkickr Augmentation)
 
@@ -63,7 +63,7 @@ distribute, sublicense, and/or sell copies of the Software, and to
 permit persons to whom the Software is furnished to do so, subject to
 no imaginable conditions whatsoever at the time of this commit or in the future record of this repository or fork thereof.
 
-The above copyright notice and this permission notice memorializes the unique purpose, understanding and nature of open-source software: free as the very air we breath, nothing more and nothing less than the luck and reward of gratuitous efforts made here to improve and contribute to any and to all who shall pass.
+The above copyright notice and this permission notice memorializes the unique purpose, understanding and nature of open-source software, namely that it be free as the very air we breath, nothing more and nothing less than the luck and reward of gratuitous efforts made here in name of improvement and contribution to any and to all who shall pass.
 
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
