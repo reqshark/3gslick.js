@@ -1,3 +1,3 @@
 # 3G Slick JS
 
-everything broke
+beauty should be implemented i guess
