@@ -27,6 +27,4 @@ If you're going test the device, then take a peek at this file: https://github.c
 
 ## Roadmap, or just no Roadmap
 
-this repo is kinda old, I'm not sure why I'm updating the readme on something that becomes less important with each passing day. 
-
-Most new phones are 4LTE so the requirement of low quality video encoding feeds will continue to sunset as we move foward into the next part 2014. IMO.
+Related to this, I recommend checking out [Ilya Grigorik's excellent summary of the mobile latency issue](http://www.igvita.com/2014/04/21/uplink-scheduling-in-4G-networks/).
